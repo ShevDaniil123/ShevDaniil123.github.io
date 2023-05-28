@@ -1,0 +1,12 @@
+---
+title: "Кто я?"
+image: I am.jpg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com
+---
+
+Я Волк. Может я слабее льва и тигра, но я в цирке не выслупаю
